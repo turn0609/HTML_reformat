@@ -1,2 +1,9 @@
-# HTML_reformat
-A reformatting assignment to turn a report into HTML
+# HTML Reformatting project
+
+The project I chose to reformat was part of a longer formal report that I did for a technical writing class. I chose to include the introduction, methods, and part of the results because those sections contained images and good content that I could make changes to.
+
+In comparison to the Markdown project, this reformatting took me considerably longer. Having to import each paragraph as its own section with beginning and closing tags was tedious, but not difficult. I had to make less tradeoffs when converting to HTML because there is more freedom in formatting options. I found myself getting annoyed at VS Code for its automatic tag closure, as whenever I would type a tag it would automatically close it after the opening tag and I would have to manually copy paste the ending tag to the correct spot. This did help me to remember to close the tags, but I would rather just type the tag out again than have to copy paste it.
+
+I wouldn't say I had to sacrifice anything to convert the document to HTML. I was able to add every element and then some extras. Adding bold and italic text and a list was fun because it was originally a formal report with no fun text. I know how to add styles and such with css, so adding different fonts and colors of headings would be relatively easy and make the whole page look better.
+
+My final takeaway is that writing with HTML in a technical writing oriented class is much different than writing with HTML in a strictly web design class. I have found that a lot of the methods I use for sectioning is only helpful when the page is almost exclusively digital images and links, but not so helpful for an actual text-based website. It has been very informative to learn about the ways in which HTML can be used to format documents in a less style focused way.
